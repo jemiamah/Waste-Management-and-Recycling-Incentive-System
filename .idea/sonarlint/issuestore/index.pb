@@ -11,3 +11,5 @@ T
 $tests/recycling-verification.test.ts,f/8/f829af789d7fccb9a760ff54df357bbe809e2416
 E
 contracts/reward.clar,3/5/355bc64d1935808d2fa9cb1b6427e757385e96cb
+D
+tests/reward.test.ts,6/6/665df1489d169a09b0aa864825a2e5aa96b0147c
