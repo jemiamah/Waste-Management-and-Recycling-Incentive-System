@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.marketplace]
+path = 'contracts/marketplace.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.recycling-verification]
 path = 'contracts/recycling-verification.clar'
 clarity_version = 2

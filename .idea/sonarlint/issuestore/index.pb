@@ -13,3 +13,5 @@ E
 contracts/reward.clar,3/5/355bc64d1935808d2fa9cb1b6427e757385e96cb
 D
 tests/reward.test.ts,6/6/665df1489d169a09b0aa864825a2e5aa96b0147c
+J
+contracts/marketplace.clar,e/2/e2a45a6789a1d0483fc133fffb49ff482a2e137b
